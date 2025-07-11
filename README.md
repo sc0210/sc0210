@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![sc0210's GitHub stats](https://github-readme-stats.vercel.app/api?username=sc0210&theme=vue-dark&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
-![sc0210's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sc0210&show_icons=true&theme=vue-dark&hide_border=false&layout=compact)
+[![sc0210's GitHub stats](https://github-readme-stats.vercel.app/api?username=sc0210&theme=gotham&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+![sc0210's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sc0210&show_icons=true&theme=gotham&hide_border=false&layout=compact)
 
 <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sc0210&theme=vue-dark&repo=TexLive-Docker)](https://github.com/sc0210/TexLive-Docker)
